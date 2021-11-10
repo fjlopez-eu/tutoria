@@ -2,5 +2,7 @@ Eroski
 Día
 Mercadona
 Carrefour
+BM
+
 
 
